@@ -13,4 +13,4 @@ jupyter notebook
 2. Run notebook
 
 ## RESULT
-![sample](https://github.com/YifanZhou95/MAML_simple/blob/master/figure/2_shots_10_amplifer.png)
+![sample](https://github.com/YifanZhou95/MAML_simple/blob/master/figure/1_shots_10000_epsd_2_tasks_16_steps.png)
