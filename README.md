@@ -9,8 +9,8 @@ python 3
 jupyter notebook
 
 ## USAGE
-1. Unzip file in /data folder
-2. Run python file "src/runner.py" notebook "src/runner.ipynb"
+1. Unzip all files in "/data" folder
+2. Run python file "src/runner.py" or notebook "src/runner.ipynb"
 
 ## RESULT
 ![sample](https://github.com/YifanZhou95/MAML_simple/blob/master/figure/1_shots_10000_epsd_2_tasks_16_steps.png)
