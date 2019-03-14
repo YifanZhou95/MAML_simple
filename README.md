@@ -6,6 +6,7 @@ In this task, the MAML algorithm is implemented on MNIST dataset. And it aims to
 
 ## REQUIREMENT
 python 3
+
 jupyter notebook
 
 ## USAGE
